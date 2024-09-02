@@ -1,4 +1,31 @@
-## Hi there 👋
+## 👋 Vitaly L. 
+I'm 22 y.o, live in St. Petersburg.
+
+**English** - B1; **Russian** - Native; **Czech** - A1;
+
+Overall experience as a Front-End Developer = 1 year;
+
+## 📲 Contacts 
+
+- [Telegram](https://t.me/vileontev) 
+- [E-mail](mailto:exwadecoop@gmail.com)
+
+## ⌨ Stack
+
+- **HTML/CSS**
+- **JAVASCRIPT**
+- **REACT + VITE**
+- **TYPESCRIPT**
+- **TAILWIND CSS**
+- **SCSS/POSTCSS**
+- **GIT**
+
+## 🕸 Projects
+
+### https://github.com/exWade/truestory
+
+### https://github.com/exWade/react-app-shprotify
+
 
 <!--
 **exWade/exWade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
