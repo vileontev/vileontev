@@ -1,7 +1,7 @@
 ## 👋 Vitaly L. 
 I'm 22 y.o, live in St. Petersburg.
 
-Full-time, part-time (Remote, office).
+Full-time, part-time (remote, office).
 
 **English** - B1 • **Russian** - Native • **Czech** - A1.
 
