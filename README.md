@@ -1,15 +1,15 @@
 ## 👋 Vitaly L. 
-I'm 22 y.o, live in St. Petersburg
+I'm 22 y.o, live in St. Petersburg.
 
-Full-time, part-time (Remote, office)
+Full-time, part-time (Remote, office).
 
-**English** - B1; **Russian** - Native; **Czech** - A1
+**English** - B1; **Russian** - Native; **Czech** - A1.
 
-Overall experience as a Front-End Developer = 1 year
+Overall experience as a Front-End Developer = 1 year.
 
 ## 📲 Contacts 
 
-- [Telegram](https://t.me/vileontev) 
+- [Telegram](https://t.me/vileontev)
 - [E-mail](mailto:exwadecoop@gmail.com)
 
 ## ⌨ Stack
