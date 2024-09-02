@@ -3,7 +3,7 @@ I'm 22 y.o, live in St. Petersburg.
 
 Full-time, part-time (remote, office).
 
-**English** - B1 • **Russian** - Native • **Czech** - A1.
+**English** (B1) • **Russian** (Native) • **Czech** (A1).
 
 Overall experience as a Front-End Developer - 1 year.
 
