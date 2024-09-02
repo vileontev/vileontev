@@ -12,7 +12,7 @@ Overall experience as a Front-End Developer - 1 year.
 - <a href="https://t.me/vileontev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 - <a href="mailto:exwadecoop@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## ⌨ Stack
+## 💻 Stack
 
 - **HTML/CSS:** владею основами HTML и CSS, умею создавать семантическую структуру веб-страницы, оформлять стили для различных элементов, использовать Flexbox и Grid для верстки.
 - **JavaScript:** знаю основы языка JavaScript, умею манипулировать DOM, работать с событиями, понимаю синхронный и асинхронный код, активно использую ES6+ фичи (стрелочные функции, деструктуризация, модули).
