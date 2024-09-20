@@ -25,7 +25,7 @@ Overall experience as a Front-End Developer - 1 year.
 
 ## 🕸 Projects
 
-### https://github.com/exWade/truestory
+### https://github.com/exWade/react-app-truestory
 
 ### https://github.com/exWade/react-app-shprotify
 
