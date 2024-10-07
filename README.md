@@ -1,4 +1,4 @@
-## 👋 Vitaly L. 
+## 👋 Vitalii L. 
 I'm 22 y.o, live in St. Petersburg.
 
 Full-time, part-time (remote, office).
