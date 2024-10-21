@@ -25,9 +25,9 @@ Overall experience as a Front-End Developer - 1 year.
 
 ## 🕸 Projects
 
-### https://github.com/exWade/truestory
+### https://github.com/vileontev/truestory
 
-### https://github.com/exWade/shprotify
+### https://github.com/vileontev/shprotify
 
 ## 🛠 Tools & Skills
 
