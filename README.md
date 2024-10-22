@@ -1,4 +1,4 @@
-## 👋 Vitalii L. 
+## Vitalii L. 👋
 I'm 22 y.o, live in St. Petersburg.
 
 Full-time, part-time (remote, office).
@@ -7,13 +7,15 @@ Full-time, part-time (remote, office).
 
 Overall experience as a Front-End Developer - 1 year.
 
-## 📲 Contacts 
+## Contacts 📲 
+<p align="left">
+    <a href="https://t.me/vileontev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/vileontev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:exwadecoop@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<a href="https://t.me/vileontev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a><br>
-<a href="https://www.linkedin.com/in/vileontev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br>
-<a href="mailto:exwadecoop@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## 💻 Stack
+## Stack 💻
 
 - **HTML/CSS:** владею основами HTML и CSS, умею создавать семантическую структуру веб-страницы, оформлять стили для различных элементов, использовать Flexbox и Grid для верстки.
 - **JavaScript:** знаю основы языка JavaScript, умею манипулировать DOM, работать с событиями, понимаю синхронный и асинхронный код, активно использую ES6+ фичи (стрелочные функции, деструктуризация, модули).
@@ -23,13 +25,13 @@ Overall experience as a Front-End Developer - 1 year.
 - **SCSS/Less/PostCSS:** понимаю основы SCSS и Less, умею использовать вложенность, переменные, миксины. Знаком с PostCSS и его возможностями для автоматизации обработки CSS.
 - **Git:** владею основами Git, умею инициализировать репозиторий, создавать коммиты, работать с ветками, выполнять слияния и решать конфликты.
 
-## 🕸 Projects
+## Projects 🕸
 
 ### https://github.com/vileontev/truestory
 
 ### https://github.com/vileontev/shprotify
 
-## 🛠 Tools & Skills
+## Tools & Skills 🛠
 
 **Front-End Skills**
 <p align="left">
