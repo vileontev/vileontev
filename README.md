@@ -29,6 +29,8 @@ Overall experience as a Front-End Developer - 1 year.
 
 ### https://github.com/vileontev/truestory
 
+### https://github.com/vileontev/echarts
+
 ### https://github.com/vileontev/shprotify
 
 ## Tools & Skills 🛠
