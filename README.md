@@ -53,6 +53,7 @@ Overall experience as a Front-End Developer - 1 year.
     <a href="#"><img src="https://img.shields.io/badge/Json-121011?style=for-the-badge&logo=json&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/</a>
 </p>
 
 **IDE & Tools**
