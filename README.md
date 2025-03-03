@@ -38,6 +38,7 @@ Overall experience as a Front-End Developer - 1 year.
     <a href="https://www.freecodecamp.org/certification/vileontev/javascript-algorithms-and-data-structures"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/></a>
     <a href="https://g.dev/vileontev"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
     <a href="https://www.freecodecamp.org/certification/vileontev/responsive-web-design"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/></a>
+    <a href="https://stepik.org/users/247665454/certificates"><img src="https://img.shields.io/badge/Stepik.org-black?style=for-the-badge&logo=stepik"/></a>
 </p>
 
 ## Tools & Skills 🛠
