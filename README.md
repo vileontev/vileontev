@@ -1,5 +1,5 @@
 ## Vitalii L. 👋
-I'm 22 y.o, live in St. Petersburg.
+I'm 23 y.o, live in St. Petersburg.
 
 Full-time, part-time (remote, office).
 
