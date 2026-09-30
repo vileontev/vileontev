@@ -54,17 +54,7 @@ I have 3 years of experience in Front-End Development and also work with backend
 
 ## Certificates 📜
 <p align="left">
-    <a href="https://www.freecodecamp.org/certification/vileontev/javascript-algorithms-and-data-structures"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/></a>
-    <a href="https://g.dev/vileontev"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-    <a href="https://stepik.org/users/247665454/certificates"><img src="https://img.shields.io/badge/Stepik.org-black?style=for-the-badge&logo=stepik"/></a>
-</p>
-
-## Tools & Skills 🛠
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    - [freeCodeCamp — JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/vileontev/javascript-algorithms-and-data-structures)
+    - [Google Developer Profile](https://g.dev/vileontev)
+    - [Stepik Certificates](https://stepik.org/users/247665454/certificates)
 </p>
