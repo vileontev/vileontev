@@ -5,7 +5,7 @@ Full-time, part-time (remote, office, gybrid).
 
 **English** (B1) • **Russian** (Native) • **Czech** (A1).
 
-Overall experience as a Front-End Developer - 2 year.
+Overall experience as a Front-End Developer - 3 years.
 
 ## Contacts 📲 
 <p align="left">
@@ -17,13 +17,30 @@ Overall experience as a Front-End Developer - 2 year.
 
 ## Stack 💻
 
-- **HTML/CSS:** владею основами HTML и CSS, умею создавать семантическую структуру веб-страницы, оформлять стили для различных элементов, использовать Flexbox и Grid для верстки.
-- **JavaScript:** знаю основы языка JavaScript, умею манипулировать DOM, работать с событиями, понимаю синхронный и асинхронный код, активно использую ES6+ фичи (стрелочные функции, деструктуризация, модули).
-- **React + Vite:** умею создавать компоненты на React, понимаю работу с состоянием и пропсами, использую различные хуки. Работаю с Vite как с инструментом сборки и разработки.
-- **TypeScript:** владею основами TypeScript, умею типизировать переменные, функции, компоненты, понимаю базовые принципы работы с интерфейсами и дженериками.
-- **Tailwind CSS:** знаю базовые принципы работы с Tailwind CSS, умею использовать утилитарные классы для быстрого создания адаптивного дизайна.
-- **SCSS/Less/PostCSS:** понимаю основы SCSS и Less, умею использовать вложенность, переменные, миксины. Знаком с PostCSS и его возможностями для автоматизации обработки CSS.
-- **Git:** владею основами Git, умею инициализировать репозиторий, создавать коммиты, работать с ветками, выполнять слияния и решать конфликты.
+### Frontend
+
+- **React / TypeScript** — component-based development, hooks, reusable UI components, responsive interfaces and application state management.
+- **Next.js** — SSR/SSG, App Router, API routes, SEO optimization and production deployment.
+- **JavaScript (ES6+)** — asynchronous programming, modules, DOM APIs and modern JavaScript features.
+
+### Styling
+
+- **SCSS / CSS** — responsive layouts, Flexbox, Grid, animations and maintainable component styles.
+- **Tailwind CSS** — utility-first styling and responsive UI development.
+
+### Backend & Data
+
+- **Node.js / Express** — REST APIs, server-side application logic and third-party integrations.
+- **Strapi** — CMS setup, content modeling and API integration.
+- **MongoDB / PostgreSQL / MSSQL** — database integration and working with application data.
+- **REST API / SSE** — client-server communication and real-time data updates.
+
+### Tools & Infrastructure
+
+- **Git / GitHub** — branching, pull requests, merge conflict resolution and collaborative development.
+- **Docker / Docker Compose** — containerized development and deployment.
+- **Nginx** — reverse proxy, HTTPS and production configuration.
+- **Vite** — frontend tooling and development environment.
 
 ## Projects 🕸
 
