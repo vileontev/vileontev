@@ -53,8 +53,7 @@ I have 3 years of experience in Front-End Development and also work with backend
 ### https://github.com/vileontev/shprotify
 
 ## Certificates 📜
-<p align="left">
-    - [freeCodeCamp — JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/vileontev/javascript-algorithms-and-data-structures)
-    - [Google Developer Profile](https://g.dev/vileontev)
-    - [Stepik Certificates](https://stepik.org/users/247665454/certificates)
-</p>
+
+- [freeCodeCamp — JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/vileontev/javascript-algorithms-and-data-structures)
+- [Google Developer Profile](https://g.dev/vileontev)
+- [Stepik Certificates](https://stepik.org/users/247665454/certificates)
