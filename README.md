@@ -2,7 +2,7 @@
 
 Front-End Developer focused on building modern web applications with React, TypeScript and Next.js.
 
-I have 3 years of experience in Front-End Development and also work with backend technologies when needed.
+I have 2 years of experience in commertial Front-End Development and also work with backend technologies when needed.
 
 📍 St. Petersburg  
 💼 Open to full-time and part-time opportunities — remote, hybrid or on-site.
